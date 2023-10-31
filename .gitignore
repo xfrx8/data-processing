@@ -1,0 +1,6 @@
+runs/
+logs/
+checkpoints/
+.vscode/
+__pycache__/
+weight/
