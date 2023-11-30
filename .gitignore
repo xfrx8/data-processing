@@ -1,6 +1,6 @@
 runs/
 logs/
-checkpoints/
+checkpoint/
 .vscode/
 __pycache__/
 weight/
